@@ -1,0 +1,12 @@
+row_index,split,reconstruction_mse,anomaly_3sigma
+0,train,0.03758892,0
+1,train,0.06816977,0
+2,train,0.06432203,0
+3,train,0.03904554,0
+4,train,0.04372059,0
+5,train,0.050989073,0
+6,train,0.2596765,0
+7,train,0.07053188,0
+8,train,0.069115505,0
+9,train,0.04320554,0
+10,train,0.075157925,0

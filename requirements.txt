@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow>=2.12
+xgboost
+scikit-learn
+pandas
+numpy
+joblib
+streamlit
+requests
